@@ -11,7 +11,7 @@
 
 using namespace daisy;
 using namespace daisysp;
-using namespace infrasonic;
+//using namespace infrasonic;
 
 typedef struct
 {

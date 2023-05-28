@@ -31,6 +31,8 @@ VASynthSetting preset_setting[PRESET_MAX] =
 		0.0f, 0.4f, 1.0f, 0.1f,   0.0f, 0.4f, 0.2f, 0.1f,
 		VASynth::WAVE_SIN, 0.5f, 0.0f,
 		VASynth::WAVE_SIN, 0.2f, 0.2f,
+		VASynth::WAVE_SIN, 0.2f, 0.0f,
+		VASynth::WAVE_SIN, 0.2f, 0.0f,
 		VASynth::WAVE_POLYBLEP_SAW, 0.06f, 1.0f, 1, MIDI_CHANNEL_ONE, 0.5f
 	},
 	{//2
@@ -38,6 +40,8 @@ VASynthSetting preset_setting[PRESET_MAX] =
 		0.0f, 0.4f, 1.0f, 0.1f,   0.0f, 0.4f, 0.2f, 0.1f,
 		VASynth::WAVE_SIN, 0.5f, 0.0f,
 		VASynth::WAVE_SIN, 0.2f, 0.2f,
+		VASynth::WAVE_SIN, 0.2f, 0.0f,
+		VASynth::WAVE_SIN, 0.2f, 0.0f,
 		VASynth::WAVE_POLYBLEP_SQUARE, 0.06f, 1.0f, 1, MIDI_CHANNEL_ONE, 0.5f
 	},
 	{//3
@@ -45,6 +49,8 @@ VASynthSetting preset_setting[PRESET_MAX] =
 		0.0f, 0.4f, 1.0f, 0.1f,   0.0f, 0.4f, 0.2f, 0.1f,
 		VASynth::WAVE_SIN, 0.5f, 0.0f,
 		VASynth::WAVE_SIN, 0.2f, 0.2f,
+		VASynth::WAVE_SIN, 0.2f, 0.0f,
+		VASynth::WAVE_SIN, 0.2f, 0.0f,
 		VASynth::WAVE_POLYBLEP_TRI, 0.06f, 1.0f, 1, MIDI_CHANNEL_ONE, 0.5f
 	},
 	{//4
@@ -52,6 +58,8 @@ VASynthSetting preset_setting[PRESET_MAX] =
 		0.0f, 0.4f, 1.0f, 0.1f,   0.0f, 0.4f, 0.2f, 0.1f,
 		VASynth::WAVE_SIN, 0.5f, 0.0f,
 		VASynth::WAVE_SIN, 0.2f, 0.2f,
+		VASynth::WAVE_SIN, 0.2f, 0.0f,
+		VASynth::WAVE_SIN, 0.2f, 0.0f,
 		VASynth::WAVE_SIN, 0.06f, 1.0f, 1, MIDI_CHANNEL_ONE, 0.5f
 	},
 	{//5
@@ -59,6 +67,8 @@ VASynthSetting preset_setting[PRESET_MAX] =
 		0.0f, 0.4f, 1.0f, 0.1f,   0.0f, 0.4f, 0.2f, 0.1f,
 		VASynth::WAVE_SIN, 0.5f, 0.0f,
 		VASynth::WAVE_SIN, 0.2f, 0.2f,
+		VASynth::WAVE_SIN, 0.2f, 0.0f,
+		VASynth::WAVE_SIN, 0.2f, 0.0f,
 		VASynth::WAVE_POLYBLEP_SAW, 0.06f, 1.0f, 1, MIDI_CHANNEL_ONE, 0.5f
 	},
 	{//6
@@ -66,6 +76,8 @@ VASynthSetting preset_setting[PRESET_MAX] =
 		0.0f, 0.4f, 1.0f, 0.1f,   0.0f, 0.4f, 0.2f, 0.1f,
 		VASynth::WAVE_SIN, 0.5f, 0.0f,
 		VASynth::WAVE_SIN, 0.2f, 0.2f,
+		VASynth::WAVE_SIN, 0.2f, 0.0f,
+		VASynth::WAVE_SIN, 0.2f, 0.0f,
 		VASynth::WAVE_POLYBLEP_SQUARE, 0.06f, 1.0f, 1, MIDI_CHANNEL_ONE, 0.5f
 	},
 	{//7
@@ -73,6 +85,8 @@ VASynthSetting preset_setting[PRESET_MAX] =
 		0.0f, 0.4f, 1.0f, 0.1f,   0.0f, 0.4f, 0.2f, 0.1f,
 		VASynth::WAVE_SIN, 0.5f, 0.0f,
 		VASynth::WAVE_SIN, 0.2f, 0.2f,
+		VASynth::WAVE_SIN, 0.2f, 0.0f,
+		VASynth::WAVE_SIN, 0.2f, 0.0f,
 		VASynth::WAVE_POLYBLEP_TRI, 0.06f, 1.0f, 1, MIDI_CHANNEL_ONE, 0.5f
 	},
 	{//8
@@ -80,6 +94,8 @@ VASynthSetting preset_setting[PRESET_MAX] =
 		0.0f, 0.4f, 1.0f, 0.1f,   0.0f, 0.4f, 0.2f, 0.1f,
 		VASynth::WAVE_SIN, 0.5f, 0.0f,
 		VASynth::WAVE_SIN, 0.2f, 0.2f,
+		VASynth::WAVE_SIN, 0.2f, 0.0f,
+		VASynth::WAVE_SIN, 0.2f, 0.0f,
 		VASynth::WAVE_SIN, 0.06f, 1.0f, 1, MIDI_CHANNEL_ONE, 0.5f
 	},
 	{//9
@@ -87,6 +103,8 @@ VASynthSetting preset_setting[PRESET_MAX] =
 		0.0f, 0.4f, 1.0f, 0.1f,   0.0f, 0.4f, 0.2f, 0.1f,
 		VASynth::WAVE_SIN, 0.5f, 0.0f,
 		VASynth::WAVE_SIN, 0.2f, 0.2f,
+		VASynth::WAVE_SIN, 0.2f, 0.0f,
+		VASynth::WAVE_SIN, 0.2f, 0.0f,
 		VASynth::WAVE_RAMP, 0.06f, 1.0f, 1, MIDI_CHANNEL_ONE, 0.5f
 	},
 	{//10
@@ -94,15 +112,19 @@ VASynthSetting preset_setting[PRESET_MAX] =
 		0.0f, 0.4f, 1.0f, 0.1f,   0.0f, 0.4f, 0.2f, 0.1f,
 		VASynth::WAVE_SIN, 0.5f, 0.0f,
 		VASynth::WAVE_SIN, 0.2f, 0.2f,
+		VASynth::WAVE_SIN, 0.2f, 0.0f,
+		VASynth::WAVE_SIN, 0.2f, 0.0f,
 		VASynth::WAVE_RAMP, 0.06f, 1.0f, 1, MIDI_CHANNEL_ONE, 0.5f
 	}
 };
 
 /*
-waveform, osc_mix, detune (unused), filter_res, filter_cutoff, filter envelope amount, osc_pw
+osc_waveform, osc_mix, detune (unused), filter_res, filter_cutoff, filter envelope amount, osc_pw
 eg_a_attack, d, s, r, eg_f_attack, d, s, r,
 lfo_waveform, lfo_freq, lfo_amp,
 pwmlfo_waveform, pwmlfo_freq, pwmlfo_amp,
+vcflfo_waveform, vcflfo_freq, vcflfo_amp,
+vcalfo_waveform, vcalfo_freq, vcalfo_amp,
 osc2_waveform, osc2_detune, osc2_transpose, vel_select, midi_channel, osc2_pw;
 */
 
@@ -153,6 +175,16 @@ void VASynth::Init()
 	pwmlfo_.SetWaveform(pwmlfo_waveform_);
 	pwmlfo_.SetFreq(pwmlfo_freq_);
 	pwmlfo_.SetAmp(pwmlfo_amp_);
+
+	vcflfo_.Init(sample_rate_);
+	vcflfo_.SetWaveform(vcflfo_waveform_);
+	vcflfo_.SetFreq(vcflfo_freq_);
+	vcflfo_.SetAmp(vcflfo_amp_);
+
+	vcalfo_.Init(sample_rate_);
+	vcalfo_.SetWaveform(vcalfo_waveform_);
+	vcalfo_.SetFreq(vcalfo_freq_);
+	vcalfo_.SetAmp(vcalfo_amp_);
 
 	// stereo simulator
 	delay_.Init();
@@ -207,7 +239,7 @@ void VASynth::SetFilter()
 void VASynth::SetLFO()
 {
 	lfo_.SetWaveform(lfo_waveform_);
-	lfo_.SetFreq(lfo_freq_*10);
+	lfo_.SetFreq(lfo_freq_ * 8.0f);
 	lfo_.SetAmp(lfo_amp_);
 }
 
@@ -218,10 +250,26 @@ void VASynth::SetPWMLFO()
 	pwmlfo_.SetAmp(pwmlfo_amp_);
 }
 
+void VASynth::SetVCFLFO()
+{
+	vcflfo_.SetWaveform(vcflfo_waveform_);
+	vcflfo_.SetFreq(vcflfo_freq_ * 8.0f);
+	vcflfo_.SetAmp(vcflfo_amp_);
+}
+
+void VASynth::SetVCALFO()
+{
+	vcalfo_.SetWaveform(vcalfo_waveform_);
+	vcalfo_.SetFreq(vcalfo_freq_ * 8.0f);
+	vcalfo_.SetAmp(vcalfo_amp_);
+}
+
 void VASynth::Process(float *out_l, float *out_r)
 {
 	float lfo_out;
 	float pwmlfo_out;
+	float vcflfo_out;
+	float vcalfo_out;
 	float env_a_out;
 	float env_f_out;
 	float osc_one;
@@ -237,9 +285,11 @@ void VASynth::Process(float *out_l, float *out_r)
 
 	bool note_on;
 
-	// mod and pwm lfo's
+	// Process mod, pwm, vca, and vcf lfo's
 	lfo_out = lfo_.Process();
 	pwmlfo_out = pwmlfo_.Process();
+	vcflfo_out = vcflfo_.Process();
+	vcalfo_out = vcalfo_.Process();
 	
 	filter_out = 0;
 
@@ -253,26 +303,26 @@ void VASynth::Process(float *out_l, float *out_r)
 		if(vel_select_ >= 2)
 		{
 			// Enable velocity control of the VCA on osc
-			osc_[i].SetAmp(env_a_out * velocity[i]);
+			osc_[i].SetAmp(env_a_out * velocity[i] * (1 + vcalfo_out));
 		}
 		else
 		{
 			// Disable velocity control of the VCA on osc
-			osc_[i].SetAmp(env_a_out);
+			osc_[i].SetAmp(env_a_out * (1 + vcalfo_out));
 		}
 
 		if(vel_select_ >= 2)
 		{
 			// Enable velocity control of the VCA on osc2
-			osc2_[i].SetAmp(env_a_out * velocity[i]);
+			osc2_[i].SetAmp(env_a_out * velocity[i] * (1 + vcalfo_out));
 		}
 		else
 		{
 			// Disable velocity control of the VCA on osc2
-			osc2_[i].SetAmp(env_a_out);
+			osc2_[i].SetAmp(env_a_out * (1 + vcalfo_out));
 		}
 
-		// Calculate keyboard follow for ENV and VCF
+		// Calculate keyboard follow value for ENV and VCF
 		follow[i] = (float (note_midi_[i])/42.0f);
 
 		// Set osc + osc2 frequencies with pitch bend, mod wheel, master tuning, and osc2 detune
@@ -298,12 +348,12 @@ void VASynth::Process(float *out_l, float *out_r)
 		if(vel_select_ == 1 || vel_select_ == 3)
 		{
 			// Enable velocity control of the VCF 
-			flt[i].SetFreq(filter_cutoff_ * (env_f_out * velocity[i] * eg_f_amount_));
+			flt[i].SetFreq(filter_cutoff_ * (env_f_out * velocity[i] * eg_f_amount_) * (1 + vcflfo_out));
 		}
 		else
 		{
 			// Disable velocity control of the VCF
-			flt[i].SetFreq(filter_cutoff_ * (env_f_out * eg_f_amount_));
+			flt[i].SetFreq(filter_cutoff_ * (env_f_out * eg_f_amount_) * (1 + vcflfo_out));
 		}
 		
 		filter_out += flt[i].Process(osc_out);
@@ -429,6 +479,14 @@ void VASynth::SaveToLive(VASynthSetting *vas)
 	pwmlfo_freq_ = vas->pwmlfo_freq;
 	pwmlfo_amp_ = vas->pwmlfo_amp;
 
+	vcflfo_waveform_ = vas->vcflfo_waveform;
+	vcflfo_freq_ = vas->vcflfo_freq;
+	vcflfo_amp_ = vas->vcflfo_amp;
+
+	vcalfo_waveform_ = vas->vcalfo_waveform;
+	vcalfo_freq_ = vas->vcalfo_freq;
+	vcalfo_amp_ = vas->vcalfo_amp;
+
 	osc2_waveform_ = vas->osc2_waveform;
 	osc2_detune_ = vas->osc2_detune;
 	osc2_transpose_ = vas->osc2_transpose;
@@ -469,6 +527,14 @@ void VASynth::LiveToSave(VASynthSetting *vas)
 	vas->pwmlfo_waveform = pwmlfo_waveform_;
 	vas->pwmlfo_freq = pwmlfo_freq_;
 	vas->pwmlfo_amp = pwmlfo_amp_;
+
+	vas->vcflfo_waveform = vcflfo_waveform_;
+	vas->vcflfo_freq = vcflfo_freq_;
+	vas->vcflfo_amp = vcflfo_amp_;
+
+	vas->vcalfo_waveform = vcalfo_waveform_;
+	vas->vcalfo_freq = vcalfo_freq_;
+	vas->vcalfo_amp = vcalfo_amp_;
 
 	vas->osc2_waveform = osc2_waveform_;
 	vas->osc2_detune = osc2_detune_;
